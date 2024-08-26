@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             title: Center(
               child: Text("LIST WHEEL SCROLL VIEW",
-                style: TextStyle(fontSize: 21, fontWeight: FontWeight.bold,color:Colors.red),),
+                style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold,color:Colors.red),),
             ),
             backgroundColor: Colors.black,
           ),
